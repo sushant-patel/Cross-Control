@@ -1,0 +1,14 @@
+.searchBox{
+
+width: 95%;
+margin-bottom: 10px;
+
+
+
+}
+.searchBox:hover{
+
+   
+   box-shadow: 0 0 15px #bf7d26;
+
+}
